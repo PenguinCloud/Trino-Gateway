@@ -1,0 +1,1000 @@
+06:39:28.467 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{50=adhoc0, 63=adhoc1}]
+06:39:28.467 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.472 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.480 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.480 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.486 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.487 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.487 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.492 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.493 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.493 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.503 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.504 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.504 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.511 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.511 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.511 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.518 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.519 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.519 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.523 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.524 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.524 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.543 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.545 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.545 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc0=3}}]
+06:39:28.545 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc0=3}}] 
+06:39:28.545 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{67=adhoc0, 101=adhoc1, 113=adhoc2}]
+06:39:28.545 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.550 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.552 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.552 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.556 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.557 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.558 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.562 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.563 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.563 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.584 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.585 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.585 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.589 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.590 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.590 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.606 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.608 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.608 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.616 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.622 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.622 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.631 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.632 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.632 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.637 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.645 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.645 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc0=3}}]
+06:39:28.645 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc0=3}}] 
+06:39:28.645 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{75=adhoc0, 125=adhoc1, 150=adhoc2, 152=adhoc3}]
+06:39:28.645 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.660 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.662 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.662 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.668 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.669 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.669 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.694 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.696 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.696 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.724 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.725 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.725 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.731 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.732 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.732 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.751 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.752 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.752 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.756 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.758 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.758 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.766 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.768 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.768 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.774 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.778 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.778 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.783 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.783 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.784 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc4=15, adhoc0=3}}]
+06:39:28.784 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc4=15, adhoc0=3}}] 
+06:39:28.784 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{80=adhoc0, 140=adhoc1, 180=adhoc2, 200=adhoc3, 201=adhoc4}]
+06:39:28.784 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.793 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.796 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.796 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.800 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.801 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.801 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.820 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.822 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.822 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.827 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.828 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.828 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.843 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.846 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.846 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.852 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.853 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.853 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc0=3}}]
+06:39:28.854 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc0=3}}] 
+06:39:28.854 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Group: [adhoc] has only 1 active backend.
+06:39:28.854 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc0}]
+06:39:28.854 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.859 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.860 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.861 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.868 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.868 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.868 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.893 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.894 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.894 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.906 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.906 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.906 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.917 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.923 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.923 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.927 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.929 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.929 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.934 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.942 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.942 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc0=3}}]
+06:39:28.942 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc0=3}}] 
+06:39:28.942 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{50=adhoc0, 63=adhoc1}]
+06:39:28.942 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.952 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.953 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.953 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.957 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.959 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.959 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.977 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.978 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.978 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.982 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.984 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.984 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:28.994 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:28.995 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:28.995 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.006 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.007 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.008 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.016 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.017 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.018 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.029 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.030 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.030 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc0=3}}]
+06:39:29.030 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc0=3}}] 
+06:39:29.030 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{67=adhoc0, 101=adhoc1, 113=adhoc2}]
+06:39:29.030 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.036 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.037 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.037 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.048 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.049 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.049 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.053 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.062 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.062 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.067 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.068 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.069 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.075 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.076 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.076 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.080 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.081 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.081 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.086 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.088 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.088 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.098 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.099 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.099 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.105 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.106 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.106 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc0=3}}]
+06:39:29.106 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc0=3}}] 
+06:39:29.106 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{75=adhoc0, 125=adhoc1, 150=adhoc2, 152=adhoc3}]
+06:39:29.106 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.112 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.113 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.113 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.120 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.121 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.121 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.134 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.135 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.135 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.142 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.143 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.143 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.147 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.148 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.148 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.164 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.165 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.165 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.169 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.170 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.170 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.174 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.175 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.175 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.187 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.190 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.191 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.196 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.197 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.197 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc4=15, adhoc0=3}}]
+06:39:29.197 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc4=15, adhoc0=3}}] 
+06:39:29.197 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{80=adhoc0, 140=adhoc1, 180=adhoc2, 200=adhoc3, 201=adhoc4}]
+06:39:29.197 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.202 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.204 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.204 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.213 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.223 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.223 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.230 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.231 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.231 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.235 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.236 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.236 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.240 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.241 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.241 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.251 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.252 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.252 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc0=3}}]
+06:39:29.252 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc0=3}}] 
+06:39:29.252 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Group: [adhoc] has only 1 active backend.
+06:39:29.252 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc0}]
+06:39:29.252 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.259 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.261 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.261 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.266 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.266 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.266 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.288 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.289 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.289 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.303 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.319 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.319 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.346 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.347 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.347 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.369 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.371 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.371 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.382 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.385 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.385 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc0=3}}]
+06:39:29.385 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc0=3}}] 
+06:39:29.385 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{50=adhoc0, 63=adhoc1}]
+06:39:29.385 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.396 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.398 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.398 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.409 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.418 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.418 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.435 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.436 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.436 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.454 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.455 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.456 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.467 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.468 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.468 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.491 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.493 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.493 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.511 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.513 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.513 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.528 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.533 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.533 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc0=3}}]
+06:39:29.533 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc0=3}}] 
+06:39:29.534 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{67=adhoc0, 101=adhoc1, 113=adhoc2}]
+06:39:29.534 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.545 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.547 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.547 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.562 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.563 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.563 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.575 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.576 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.576 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.591 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.591 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.591 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.605 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.605 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.605 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.621 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.622 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.623 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.631 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.632 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.632 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.640 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.641 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.641 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.646 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.647 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.647 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc0=3}}]
+06:39:29.647 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc0=3}}] 
+06:39:29.647 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{75=adhoc0, 125=adhoc1, 150=adhoc2, 152=adhoc3}]
+06:39:29.647 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.652 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.653 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.653 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.659 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.667 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.667 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.672 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.673 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.673 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.677 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.683 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.683 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.687 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.688 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.688 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.693 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.694 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.694 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.700 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.701 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.701 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.705 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.707 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.707 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.728 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.730 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.730 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.734 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.735 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.735 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc4=15, adhoc0=3}}]
+06:39:29.735 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=6, adhoc2=9, adhoc3=12, adhoc4=15, adhoc0=3}}] 
+06:39:29.736 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{80=adhoc0, 140=adhoc1, 180=adhoc2, 200=adhoc3, 201=adhoc4}]
+06:39:29.736 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.744 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.754 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.754 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.761 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.762 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.762 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.767 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.769 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.769 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.779 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.781 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.781 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.788 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.789 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.789 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.793 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.794 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.794 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.806 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.815 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.815 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.821 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.822 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.823 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=20, adhoc2=30, adhoc0=10}}]
+06:39:29.823 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=20, adhoc2=30, adhoc0=10}}] 
+06:39:29.823 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{67=adhoc0, 101=adhoc1, 113=adhoc2}]
+06:39:29.823 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.834 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.835 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.835 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.840 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.840 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.840 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.845 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.846 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.846 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.851 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.851 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.851 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.856 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.856 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.856 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.867 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.868 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.868 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.879 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.886 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.890 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.895 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.896 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.896 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{scheduled={scheduled1=20, scheduled2=30, scheduled0=10}}]
+06:39:29.896 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{scheduled={scheduled1=20, scheduled2=30, scheduled0=10}}] 
+06:39:29.896 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [scheduled] is [{67=scheduled0, 101=scheduled1, 113=scheduled2}]
+06:39:29.896 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.906 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.906 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.906 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.911 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.911 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.911 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.923 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.924 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.924 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.932 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.932 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.932 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.943 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.944 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.944 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.948 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.949 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.949 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc0=75}}]
+06:39:29.949 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc0=75}}] 
+06:39:29.949 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Group: [adhoc] has only 1 active backend.
+06:39:29.949 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc0}]
+06:39:29.950 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.964 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.965 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.965 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.971 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.972 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.972 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.976 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.977 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.977 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.984 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.985 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.985 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:29.995 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:29.996 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:29.996 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.003 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.004 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.004 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.008 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.009 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.014 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=136, adhoc0=69}}]
+06:39:30.015 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=136, adhoc0=69}}] 
+06:39:30.015 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{50=adhoc0, 63=adhoc1}]
+06:39:30.015 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.035 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.036 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.036 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.040 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.041 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.041 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.051 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.052 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.052 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.058 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.058 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.058 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.078 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.079 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.079 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.084 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.085 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.085 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.106 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.107 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.107 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.111 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.112 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.112 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=183, adhoc2=218, adhoc0=93}}]
+06:39:30.112 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=183, adhoc2=218, adhoc0=93}}] 
+06:39:30.112 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{58=adhoc0, 75=adhoc1, 79=adhoc2}]
+06:39:30.113 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.129 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.130 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.130 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.136 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.138 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.138 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.144 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.145 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.145 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.158 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.159 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.159 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.164 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.164 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.164 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.171 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.172 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.172 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.182 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.184 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.184 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.195 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.196 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.196 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.203 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.204 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.204 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=111, adhoc2=182, adhoc3=279, adhoc0=99}}]
+06:39:30.204 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=111, adhoc2=182, adhoc3=279, adhoc0=99}}] 
+06:39:30.204 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{65=adhoc0, 126=adhoc1, 161=adhoc2, 166=adhoc3}]
+06:39:30.204 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.222 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.223 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.223 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.229 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.230 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.230 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.239 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.246 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.247 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.255 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.256 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.256 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.265 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.266 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.266 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.271 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.273 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.273 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.278 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.279 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.279 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.295 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.296 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.296 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.301 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.303 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.303 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.308 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.309 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.309 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=149, adhoc2=170, adhoc3=177, adhoc4=236, adhoc0=81}}]
+06:39:30.309 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=149, adhoc2=170, adhoc3=177, adhoc4=236, adhoc0=81}}] 
+06:39:30.309 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{66=adhoc0, 103=adhoc1, 131=adhoc2, 156=adhoc3, 159=adhoc4}]
+06:39:30.309 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.314 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.315 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.315 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.325 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.326 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.326 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.331 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.332 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.332 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.337 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.338 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.338 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.343 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.344 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.344 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.349 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.355 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.355 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc0=54}}]
+06:39:30.355 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc0=54}}] 
+06:39:30.355 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Group: [adhoc] has only 1 active backend.
+06:39:30.355 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc0}]
+06:39:30.355 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.360 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.361 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.361 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.366 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.367 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.367 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.372 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.372 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.372 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.377 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.377 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.377 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.383 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.383 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.383 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.388 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.389 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.389 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.402 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.403 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.403 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=153, adhoc0=80}}]
+06:39:30.403 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=153, adhoc0=80}}] 
+06:39:30.403 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{48=adhoc0, 62=adhoc1}]
+06:39:30.403 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.408 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.408 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.408 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.419 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.420 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.420 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.432 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.433 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.433 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.442 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.443 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.443 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.452 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.453 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.453 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.459 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.460 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.460 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.464 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.466 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.466 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.471 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.472 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.472 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=83, adhoc2=110, adhoc0=33}}]
+06:39:30.472 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=83, adhoc2=110, adhoc0=33}}] 
+06:39:30.472 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{70=adhoc0, 95=adhoc1, 98=adhoc2}]
+06:39:30.472 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.477 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.478 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.478 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.483 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.484 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.484 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.490 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.491 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.491 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.501 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.502 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.502 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.510 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.511 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.511 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.517 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.518 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.518 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.523 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.524 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.524 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.534 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.535 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.535 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.554 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.555 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.555 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=112, adhoc2=153, adhoc3=238, adhoc0=90}}]
+06:39:30.555 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=112, adhoc2=153, adhoc3=238, adhoc0=90}}] 
+06:39:30.556 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{63=adhoc0, 116=adhoc1, 152=adhoc2, 158=adhoc3}]
+06:39:30.556 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.560 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.561 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.561 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.581 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.582 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.582 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.586 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.587 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.587 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.592 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.593 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.593 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.599 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.599 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.599 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.605 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.606 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.606 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.612 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.613 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.613 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.623 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.627 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.627 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.641 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.642 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.642 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.646 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.647 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.647 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=83, adhoc2=116, adhoc3=164, adhoc4=219, adhoc0=0}}]
+06:39:30.647 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=83, adhoc2=116, adhoc3=164, adhoc4=219, adhoc0=0}}] 
+06:39:30.648 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc0, 163=adhoc1, 211=adhoc2, 237=adhoc3, 238=adhoc4}]
+06:39:30.648 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.663 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.664 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.664 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.669 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.669 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.669 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.682 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.683 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.683 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.688 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.689 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.689 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.694 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.695 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.695 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.701 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.703 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.703 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc0=0}}]
+06:39:30.703 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc0=0}}] 
+06:39:30.703 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Group: [adhoc] has only 1 active backend.
+06:39:30.703 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc0}]
+06:39:30.703 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.724 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.726 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.726 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.736 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.737 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.737 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.747 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.750 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.750 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.757 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.758 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.758 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.765 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.775 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.775 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.786 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.796 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.796 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.802 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.803 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.804 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=73, adhoc0=72}}]
+06:39:30.804 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=73, adhoc0=72}}] 
+06:39:30.804 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{2=adhoc0, 4=adhoc1}]
+06:39:30.804 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.811 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.812 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.812 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.817 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.819 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.819 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.834 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.835 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.835 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.846 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.847 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.847 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.852 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.852 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.852 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.865 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.871 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.871 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.878 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.879 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.879 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.883 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.899 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.899 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=67, adhoc2=151, adhoc0=44}}]
+06:39:30.899 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=67, adhoc2=151, adhoc0=44}}] 
+06:39:30.899 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{71=adhoc0, 127=adhoc1, 132=adhoc2}]
+06:39:30.899 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.907 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.908 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.908 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.915 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.932 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.932 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.939 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.940 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.940 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.951 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.952 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.953 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.958 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.966 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.966 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.971 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.972 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.972 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.977 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.978 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.982 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:30.994 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:30.999 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:30.999 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.007 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.008 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.008 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=95, adhoc2=145, adhoc3=159, adhoc0=19}}]
+06:39:31.008 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=95, adhoc2=145, adhoc3=159, adhoc0=19}}] 
+06:39:31.008 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{89=adhoc0, 130=adhoc1, 139=adhoc2, 140=adhoc3}]
+06:39:31.008 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.020 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.029 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.029 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.037 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.038 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.038 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.042 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.043 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.043 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.052 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.059 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.059 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.067 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.068 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.068 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.072 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.073 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.073 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.086 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.087 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.087 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.093 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.094 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.094 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.099 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.100 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.100 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.109 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.110 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.110 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=115, adhoc2=127, adhoc3=135, adhoc4=227, adhoc0=84}}]
+06:39:31.110 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=115, adhoc2=127, adhoc3=135, adhoc4=227, adhoc0=84}}] 
+06:39:31.110 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{63=adhoc0, 113=adhoc1, 158=adhoc2, 199=adhoc3, 205=adhoc4}]
+06:39:31.110 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.116 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.119 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.119 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.126 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.127 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.127 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.138 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.139 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.139 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.144 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.145 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.145 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.151 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.159 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.159 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.164 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.164 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.164 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc0=44}}]
+06:39:31.164 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc0=44}}] 
+06:39:31.164 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Group: [adhoc] has only 1 active backend.
+06:39:31.164 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc0}]
+06:39:31.165 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.169 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.170 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.170 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.175 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.176 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.176 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.181 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.181 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.181 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.192 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.194 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.194 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.199 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.200 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.200 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.210 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.211 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.211 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.216 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.216 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.216 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=32, adhoc0=3}}]
+06:39:31.216 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=32, adhoc0=3}}] 
+06:39:31.217 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{91=adhoc0, 92=adhoc1}]
+06:39:31.217 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.223 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.225 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.225 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.232 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.236 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.236 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.243 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.244 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.244 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.251 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.251 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.251 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.269 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.270 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.270 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.279 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.280 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.280 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.287 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.291 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.291 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.302 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.303 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.304 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=125, adhoc2=137, adhoc0=82}}]
+06:39:31.304 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=125, adhoc2=137, adhoc0=82}}] 
+06:39:31.304 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{41=adhoc0, 50=adhoc1, 54=adhoc2}]
+06:39:31.304 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.315 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.316 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.316 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.323 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.324 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.324 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.331 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.332 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.332 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.343 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.344 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.344 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.351 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.352 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.352 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.359 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.360 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.360 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.367 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.368 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.368 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.375 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.377 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.377 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.383 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.384 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.384 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=114, adhoc2=166, adhoc3=252, adhoc0=97}}]
+06:39:31.384 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=114, adhoc2=166, adhoc3=252, adhoc0=97}}] 
+06:39:31.385 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{62=adhoc0, 117=adhoc1, 152=adhoc2, 158=adhoc3}]
+06:39:31.385 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.392 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.393 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.393 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.400 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.406 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.407 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.418 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.419 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.419 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.427 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.428 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.428 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.434 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.434 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.434 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.440 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.452 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.452 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.459 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.460 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.460 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.467 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.468 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.468 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.480 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.481 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.481 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.488 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.489 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.489 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=58, adhoc2=76, adhoc3=128, adhoc4=220, adhoc0=35}}]
+06:39:31.489 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=58, adhoc2=76, adhoc3=128, adhoc4=220, adhoc0=35}}] 
+06:39:31.490 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{85=adhoc0, 159=adhoc1, 225=adhoc2, 267=adhoc3, 269=adhoc4}]
+06:39:31.490 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.497 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.507 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.507 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.512 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.513 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.513 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.520 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.521 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.521 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.527 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.528 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.528 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.545 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.546 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.546 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.553 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.554 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.554 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.563 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.564 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.564 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=0, adhoc0=0}}]
+06:39:31.564 [main] INFO com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Queue lengths equal: 0 for all clusters in the group adhoc. Falling back to Running Counts : {adhoc1=0, adhoc0=0}
+06:39:31.564 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=0, adhoc0=0}}] 
+06:39:31.564 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc1, 200=adhoc0}]
+06:39:31.564 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1
+06:39:31.568 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc0. userQueueCount:1

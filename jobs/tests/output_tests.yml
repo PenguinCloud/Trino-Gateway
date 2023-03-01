@@ -1,0 +1,99 @@
+---
+# The purpose of this playbook is to get so that almost ANY output from a command you launch in the terminal
+# Has the output saved to files.  Both are saved STD out and STD error.
+# Now you can PAINSTAKINGLY go through the output of your program and figure out what's going on with it.
+
+- name: Template the HA Gateway Config file
+  ansible.builtin.template:
+    src: /opt/manager/templates/gateway-ha-config.j2
+    dest: /opt/trino-gateway/gateway-ha/gateway-ha-config.yml
+    force: yes
+
+- name: Start the Maven Software Engine, build the project
+  ansible.builtin.shell:
+    chdir: /opt/trino-gateway/
+    cmd: mvn clean install
+  register: mvn_output
+
+- name: Create a folder for STD out and error log files.
+  ansible.builtin.file:
+    path: "{{ test.fpath }}"
+    state: directory
+
+- name: Create a file for STD out
+  ansible.builtin.file:
+    path: "{{ test.fpath }}/{{ test.fout }}.txt"
+    state: touch
+
+- name: Create a file for STD error
+  ansible.builtin.file:
+    path: "{{ test.fpath }}/{{ test.ferr }}.txt"
+    state: touch
+
+- name: Output STD out of Maven into a file
+  ansible.builtin.copy:
+    content: "{{ mvn_output.stdout }}"
+    dest: "{{ test.fpath }}/{{ test.fout }}.txt"
+
+- name: Output STD error of Maven into a file
+  ansible.builtin.copy:
+    content: "{{ mvn_output.stderr }}"
+    dest: "{{ test.fpath }}/{{ test.ferr }}.txt"
+
+- name: Split the STD out file into multiple files
+  ansible.builtin.shell:
+    chdir: "{{ test.fpath }}"
+    cmd: >
+      split -dl 1000 --additional-suffix=.txt 
+      {{ test.fout }}.txt 
+      {{ test.fout }}
+  when: (mvn_output.stdout|length) >= 1000
+
+- name: Split the STD error file into multiple files
+  ansible.builtin.shell:
+    chdir: "{{ test.fpath }}"
+    cmd: >
+      split -dl 1000 --additional-suffix=.txt 
+      {{ test.ferr }}.txt 
+      {{ test.ferr }}
+  when: (mvn_output.stderr|length) >= 1000
+
+- name: Check to see if the files have been outputted correctly to STD out
+  ansible.builtin.stat:
+    path: "{{ test.fpath }}/{{ test.fout }}{{ '{:02}'.format(item) }}.txt"
+  loop: "{{ range(0, test.floop | int) }}"
+  register: mvn_output_check_stdout
+
+- name: Handle any error that might have occurred to STD out
+  ansible.builtin.fail:
+    msg:
+      - "Some of the output files weren't created correctly in std_out, please check logs.  "
+      - "The std_out list length is: {{ mvn_output_check_stdout.results|map(attribute='stat')|list|length }}"
+      - "This is what's in the list in std_out: {{ mvn_output_check_stdout.results|map(attribute='stat')|list }}"
+  when: mvn_output_check_stdout.results|map(attribute='stat')|list|length !=test.floop | int
+
+- name: Check to see if the files have been outputted correctly to STD error
+  ansible.builtin.stat:
+    path: "{{ test.fpath }}/{{ test.ferr }}{{ '{:02}'.format(item) }}.txt"
+  loop: "{{ range(0, test.floop | int) }}"
+  register: mvn_output_check_stderr
+
+- name: Handle any error that might have occurred to STD error
+  ansible.builtin.fail:
+    msg:
+      - "Some of the output files weren't created correctly in std_err, please check logs.  "
+      - "The std_err list length is: {{ mvn_output_check_stderr.results|map(attribute='stat')|list|length }}"
+      - "This is what's in the list in std_err: {{ mvn_output_check_stderr.results|map(attribute='stat')|list }}"
+  when: mvn_output_check_stderr.results|map(attribute='stat')|list|length !=test.floop | int
+
+#- name: Split the STD error file into multiple files
+#  ansible.builtin.shell:
+#    cmd: >
+#      dd if={{ test.fpath }}/{{ test.ferr }}.txt
+#      of={{ test.fpath }}/{{ test.ferr }}{{ item }}.txt
+#      bs=1M count={{ test.floop | int }} skip={{ item-1 }}
+#  loop: "{{ range(1, test.floop | int+1) }}"
+#  when: (mvn_output.stderr|length) > 1000000
+
+# -n {{test.loop}}
+# Testing complete!!

@@ -1,0 +1,12 @@
+---
+- name: Install dependencies
+  include_tasks:
+    file: install_dependencies.yml
+
+- name: Install Trino Gateway
+  include_tasks:
+    file: install_trino-gateway.yml
+
+- name: Install location for log files
+  include_tasks:
+    file: install_logs.yml

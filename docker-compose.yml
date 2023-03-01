@@ -1,0 +1,34 @@
+---
+version: "2.4"
+services:
+  mariadb:
+    image: bitnami/mariadb
+    environment:
+      - MARIADB_PASSWORD=trino123
+      - MARIADB_RANDOM_ROOT_PASSWORD=no
+      - MARIADB_ROOT_PASSWORD=root123
+      - MARIADB_ALLOW_EMPTY_PASSWORD=no
+      - MARIADB_DATABASE=prestogateway
+      - MARIADB_USER=trino
+    ports:
+      - "3306:3306"
+    networks:
+      - trino
+  trino-gateway:
+    image: penguintech/trino-gateway
+    build: .
+    depends_on:
+      - mariadb
+    ports:
+      - "8080:8080"
+    networks:
+      - trino
+    healthcheck:
+      test: [ "CMD", "ansible-playbook", "entrypoint.yml", "--tag", "test" ]
+      interval: 5m
+      timeout: 10s
+      retries: 5
+      start_period: 5s
+
+networks:
+  trino:

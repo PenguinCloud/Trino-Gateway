@@ -1,0 +1,37 @@
+---
+- name: create Trino directory
+  file:
+    path: /opt/trino-gateway
+    state: directory
+
+- name: download Trino Gateway
+  ansible.builtin.get_url:
+    url: "{{ trinog.link }}"
+    dest: /opt/
+
+- name: Unarchive a file that is already on the remote machine
+  ansible.builtin.unarchive:
+    src: "/opt/{{ trinog.arc_version }}"
+    dest: /opt/
+    remote_src: yes
+
+- name: Remove file (delete file)
+  ansible.builtin.file:
+    path: "/opt/{{ trinog.arc_version }}"
+    state: absent
+
+- name: Rename Trino Gateway
+  shell: "mv /opt/{{ trinog.version }}/* /opt/trino-gateway/"
+
+- name: Recursively remove downloaded directory
+  ansible.builtin.file:
+    path: /opt/{{ trinog.version }}/
+    state: absent
+
+- name: Recursively change ownership of trino HA gateway directory
+  ansible.builtin.file:
+    path: /opt/trino-gateway/
+    state: directory
+    recurse: yes
+    owner: "{{ run.user }}"
+    group: "{{ run.user }}"

@@ -1,0 +1,18 @@
+---
+- name: create the log directory for all of the trino log files
+  ansible.builtin.file:
+    path: /opt/log/
+    state: directory
+
+- name: create the trino-proxy directory for Trino gateway log files
+  ansible.builtin.file:
+    path: /opt/log/trino-proxy/
+    state: directory
+
+- name: Recursively change ownership log directory for trino
+  ansible.builtin.file:
+    path: /opt/log/
+    state: directory
+    recurse: yes
+    owner: "{{ run.user }}"
+    group: "{{ run.user }}"

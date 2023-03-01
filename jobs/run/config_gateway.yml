@@ -1,0 +1,16 @@
+---
+- name: Template the HA Gateway Config file
+  ansible.builtin.template:
+    src: /opt/manager/templates/gateway-ha-config.j2
+    dest: /opt/trino-gateway/gateway-ha/gateway-ha-config.yml
+    force: yes
+
+- name: Start the Maven Software Engine, build the project
+  ansible.builtin.shell:
+    chdir: /opt/trino-gateway/
+    cmd: mvn clean install
+
+- name: Connect to DB, start the server
+  ansible.builtin.shell:
+    cmd: "nohup java -jar gateway-ha-{{ gateha.dversion }}-jar-with-dependencies.jar server ../gateway-ha-config.yml &"
+    chdir: /opt/trino-gateway/gateway-ha/target/

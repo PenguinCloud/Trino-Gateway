@@ -1,0 +1,26 @@
+run:
+  user: ptg-user
+app:
+  title: "{{ lookup('ansible.builtin.env', 'APP_TILE') }}"
+
+trinog:
+  link: "{{ lookup('ansible.builtin.env', 'TRINO_LINK') }}"
+  version: "{{ lookup('ansible.builtin.env', 'TRINO_VERSION') }}"
+  arc_version: "{{ lookup('ansible.builtin.env', 'TRINO_ARC_VERSION') }}"
+
+database:
+  name: "{{ lookup('env', 'DATABASE_NAME') }}"
+  user: "{{ lookup('env', 'DATABASE_USER') }}"
+  password: "{{ lookup('env', 'DATABASE_PASSWORD') }}"
+  host: "{{ lookup('env', 'DATABASE_HOST') }}"
+  port: "{{ lookup('env', 'DATABASE_PORT') }}"
+  type: "{{ lookup('env', 'DATABASE_TYPE') }}"
+
+test:
+  floop: "{{ lookup('env', 'FILE_LOOP_TEST') }}"
+  fpath: "{{ lookup('env', 'FOLDER_PATH') }}"
+  fout: "{{ lookup('env', 'FILE_OUT') }}"
+  ferr: "{{ lookup('env', 'FILE_ERR') }}"
+
+gateha:
+  dversion: "{{ lookup('ansible.builtin.env', 'DEB_VERSION') }}"

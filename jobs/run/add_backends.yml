@@ -1,0 +1,14 @@
+---
+- name: Add the first backend
+  uri:
+    url: http://localhost:8080/entity?entityType=GATEWAY_BACKEND
+    method: POST
+    body: "{  'name': 'trino-cord1', 'proxyTo': 'http://trino-cord_1:8080', 'active': true, 'routingGroup': 'adhoc' }"
+    body_format: json
+
+- name: Add the second backend
+  uri:
+    url: http://localhost:8080/entity?entityType=GATEWAY_BACKEND
+    method: POST
+    body: "{  'name': 'trino-cord2', 'proxyTo': 'http://trino-cord_2:8080', 'active': true, 'routingGroup': 'adhoc' }"
+    body_format: json

@@ -1,0 +1,24 @@
+---
+# To whom it may concern:  I'm doing it this way because I need to make sure the DB is running first,
+# and spinned up completely.
+
+- name: Run connection to DB tests
+  include_tasks:
+    file: jobs/tests/test.yml
+
+- name: Install Trino Gateway
+  include_tasks:
+    file: install_trino_db.yml
+
+- name: Run Maven Build Output tests
+  include_tasks:
+    file: jobs/tests/output_tests.yml
+
+#- name: Configure the Trino Gateway
+#  include_tasks:
+#    file: config_gateway.yml
+#
+#- name: Add backends
+#  include_tasks:
+#    file: add_backends.yml
+

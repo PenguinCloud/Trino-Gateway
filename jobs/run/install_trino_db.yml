@@ -1,0 +1,12 @@
+---
+- name: Install the Trino HA Gateway Database
+  community.mysql.mysql_db:
+    name: "{{ database.name }}"
+    login_host: "{{ database.host }}"
+    login_port: "{{ database.port }}"
+    login_user: "{{ database.user }}"
+    login_password: "{{ database.password }}"
+    config_file: /etc/mysql/mariadb.cnf
+    state: import
+    target: /opt/trino-gateway/gateway-ha/src/main/resources/gateway-ha-persistence.sql
+    force: yes

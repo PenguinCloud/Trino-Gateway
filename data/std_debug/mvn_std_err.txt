@@ -1,0 +1,30 @@
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/usr/share/maven/lib/guice.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[main] INFO org.eclipse.jetty.util.log - Logging initialized @575ms to org.eclipse.jetty.util.log.Slf4jLog
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.4.48.v20220622; built: 2022-06-21T20:42:25.880Z; git: 6b67c5719d1f4371b33655ff2d047d24e171e49a; jvm 11.0.17+8-post-Ubuntu-1ubuntu220.04
+[main] INFO org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[main] INFO org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[main] INFO org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[main] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@b9b00e0{/,null,AVAILABLE}
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started MockBackend@159f197{HTTP/1.1, (http/1.1)}{0.0.0.0:30180}
+[main] INFO org.eclipse.jetty.server.Server - Started @903ms
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Stopped MockBackend@159f197{HTTP/1.1, (http/1.1)}{0.0.0.0:30180}
+[main] INFO org.eclipse.jetty.server.session - node0 Stopped scavenging
+Jan 17, 2023 6:39:09 AM com.squareup.okhttp.mockwebserver.MockWebServer$3 processOneRequest
+INFO: Received request: GET / HTTP/1.1 and responded: HTTP/1.1 200 OK
+[main] INFO org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@b9b00e0{/,null,STOPPED}
+[main] INFO org.eclipse.jetty.server.Server - jetty-9.4.48.v20220622; built: 2022-06-21T20:42:25.880Z; git: 6b67c5719d1f4371b33655ff2d047d24e171e49a; jvm 11.0.17+8-post-Ubuntu-1ubuntu220.04
+[main] INFO org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+[main] INFO org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+[main] INFO org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+[main] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7a362b6b{/,null,AVAILABLE}
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Started MockBackend@74589991{HTTP/1.1, (http/1.1)}{0.0.0.0:30599}
+[main] INFO org.eclipse.jetty.server.Server - Started @1438ms
+Jan 17, 2023 6:39:09 AM com.squareup.okhttp.mockwebserver.MockWebServer$3 processOneRequest
+INFO: Received request: GET / HTTP/1.1 and responded: HTTP/1.1 200 OK
+[main] INFO org.eclipse.jetty.server.AbstractConnector - Stopped MockBackend@74589991{HTTP/1.1, (http/1.1)}{0.0.0.0:30599}
+[main] INFO org.eclipse.jetty.server.session - node0 Stopped scavenging
+[main] INFO org.eclipse.jetty.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@7a362b6b{/,null,STOPPED}

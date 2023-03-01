@@ -1,0 +1,1000 @@
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - user routing to:adhoc1. userQueueCount:0
+06:39:31.986 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:31.993 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:31.994 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:31.994 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.002 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.003 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.003 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.011 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.011 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.011 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.033 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.033 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.033 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.051 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.052 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.052 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.072 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.073 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.073 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.085 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.087 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.087 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=0, adhoc0=0}}]
+06:39:32.087 [main] INFO com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Queue lengths equal: 0 for all clusters in the group adhoc. Falling back to Running Counts : {adhoc1=0, adhoc0=0}
+06:39:32.087 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=0, adhoc0=0}}] 
+06:39:32.087 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc1, 200=adhoc0}]
+06:39:32.092 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.099 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.100 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.100 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.105 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.115 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.115 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.122 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.123 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.123 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.131 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.132 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.133 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.146 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.146 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.146 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.164 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.165 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.165 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.173 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.174 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.174 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=0, adhoc0=0}}]
+06:39:32.174 [main] INFO com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Queue lengths equal: 0 for all clusters in the group adhoc. Falling back to Running Counts : {adhoc1=0, adhoc0=0}
+06:39:32.174 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=0, adhoc0=0}}] 
+06:39:32.174 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc1, 200=adhoc0}]
+06:39:32.186 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.195 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.196 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.196 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.201 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.202 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.202 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.210 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.211 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.211 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.234 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.234 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.234 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.242 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.253 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.253 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.260 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.261 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.261 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959160678
+06:39:32.269 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.270 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.270 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Update Routing table with new cluster queue lengths : [{adhoc={adhoc1=0, adhoc0=0}}]
+06:39:32.270 [main] INFO com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Queue lengths equal: 0 for all clusters in the group adhoc. Falling back to Running Counts : {adhoc1=0, adhoc0=0}
+06:39:32.270 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Computing Weights for Queue Map :[{adhoc={adhoc1=0, adhoc0=0}}] 
+06:39:32.270 [main] DEBUG com.lyft.data.gateway.ha.router.PrestoQueueLengthRoutingTable - Routing Table for : [adhoc] is [{100=adhoc1, 200=adhoc0}]
+06:39:32.275 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172274
+06:39:32.283 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.305 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.319 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172274
+06:39:32.331 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.331 [main] DEBUG org.ehcache.core.EhcacheManager - Creating Cache 'query_history' in EhcacheManager.
+06:39:32.332 [main] DEBUG org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider - Serializer for <java.lang.String> : org.ehcache.impl.serialization.StringSerializer@7e2c6fd6
+06:39:32.332 [main] DEBUG org.ehcache.core.EhcacheManager - Could not create serializers for query_history
+org.ehcache.spi.serialization.UnsupportedTypeException: No serializer found for type 'java.lang.Object'
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.getSerializerClassFor(DefaultSerializationProvider.java:136)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createSerializer(DefaultSerializationProvider.java:98)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createValueSerializer(DefaultSerializationProvider.java:90)
+	at org.ehcache.core.EhcacheManager.getStore(EhcacheManager.java:464)
+	at org.ehcache.core.EhcacheManager.createNewEhcache(EhcacheManager.java:342)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:274)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:252)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:247)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCacheForGroupOrCreateIt(EHCache3Manager.java:108)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCache(EHCache3Manager.java:67)
+	at org.javalite.activejdbc.cache.QueryCache.getItem(QueryCache.java:108)
+	at org.javalite.activejdbc.LazyList.hydrate(LazyList.java:322)
+	at org.javalite.activejdbc.AbstractLazyList.iterator(AbstractLazyList.java:54)
+	at com.lyft.data.gateway.ha.persistence.dao.QueryHistory.upcast(QueryHistory.java:26)
+	at com.lyft.data.gateway.ha.router.HaQueryHistoryManager.fetchQueryHistory(HaQueryHistoryManager.java:31)
+	at com.lyft.data.gateway.ha.router.TestQueryHistoryManager.testSubmitAndFetchQueryHistory(TestQueryHistoryManager.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+06:39:32.332 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.String> : org.ehcache.impl.copy.IdentityCopier@7ff6804a
+06:39:32.332 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.Object> : org.ehcache.impl.copy.IdentityCopier@12aa519b
+06:39:32.332 [main] DEBUG org.ehcache.impl.internal.store.heap.OnHeapStore - TTL expiration strategy detected
+06:39:32.334 [main] DEBUG class org.ehcache.core.Ehcache-query_history - Initialize successful.
+06:39:32.335 [main] DEBUG org.ehcache.core.statistics.DefaultStatisticsService - Cache added query_history
+06:39:32.336 [main] INFO org.ehcache.core.EhcacheManager - Cache 'query_history' created in EhcacheManager.
+06:39:32.337 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.338 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172274
+06:39:32.340 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.341 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.341 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172274
+06:39:32.343 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.343 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.343 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172274
+06:39:32.345 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.346 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.mockito.cglib.core.ReflectUtils$2 (file:/home/ptg-user/.m2/repository/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+WARNING: Please consider reporting this to the maintainers of org.mockito.cglib.core.ReflectUtils$2
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+06:39:32.615 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.615 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.615 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.615 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow special', description = 'if query from airflow with special label, route to etl-special group', priority = '2147483646'}
+06:39:32.615 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.615 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 3162216}
+06:39:32.616 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.616 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.672 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' triggered
+06:39:32.675 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' performed successfully
+06:39:32.675 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' has been evaluated to false, it has not been executed
+06:39:32.679 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.679 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.679 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow rule group', description = 'routing rules for query from airflow', priority = '2147483646'}
+06:39:32.679 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.679 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 2103374275}
+06:39:32.680 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.680 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.680 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow rule group' triggered
+06:39:32.681 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow rule group' performed successfully
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '0'}
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow special', description = 'if query from airflow with special label, route to etl-special group', priority = '1'}
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 904927065}
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' triggered
+06:39:32.687 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' performed successfully
+06:39:32.688 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' has been evaluated to false, it has not been executed
+06:39:32.695 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.695 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.695 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.695 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.695 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 1799049015}
+06:39:32.695 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.695 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.696 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' triggered
+06:39:32.697 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' performed successfully
+06:39:32.699 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.699 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.699 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.699 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.699 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 854046605}
+06:39:32.699 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.699 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.700 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' triggered
+06:39:32.700 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' performed successfully
+06:39:32.701 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.701 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.701 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.701 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.701 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 854046605}
+06:39:32.701 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.701 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.702 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' triggered
+06:39:32.702 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' performed successfully
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow special', description = 'if query from airflow with special label, route to etl-special group', priority = '2147483646'}
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 511507785}
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.705 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.706 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' has been evaluated to false, it has not been executed
+06:39:32.706 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' has been evaluated to false, it has not been executed
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow rule group', description = 'routing rules for query from airflow', priority = '2147483646'}
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 1881996254}
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.709 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow rule group' has been evaluated to false, it has not been executed
+06:39:32.725 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '0'}
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow special', description = 'if query from airflow with special label, route to etl-special group', priority = '1'}
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 1286460628}
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' has been evaluated to false, it has not been executed
+06:39:32.726 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' has been evaluated to false, it has not been executed
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 535517293}
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.728 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' has been evaluated to false, it has not been executed
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow special', description = 'if query from airflow with special label, route to etl-special group', priority = '2147483646'}
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 104664717}
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.732 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.733 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' has been evaluated to false, it has not been executed
+06:39:32.733 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' triggered
+06:39:32.734 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' performed successfully
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow rule group', description = 'routing rules for query from airflow', priority = '2147483646'}
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 836903781}
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow rule group' triggered
+06:39:32.737 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow rule group' performed successfully
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '0'}
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow special', description = 'if query from airflow with special label, route to etl-special group', priority = '1'}
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 197470785}
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' triggered
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' performed successfully
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' triggered
+06:39:32.740 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow special' performed successfully
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Engine parameters { skipOnFirstAppliedRule = false, skipOnFirstNonTriggeredRule = false, skipOnFirstFailedRule = false, priorityThreshold = 2147483647 }
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Registered rules:
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule { name = 'airflow', description = 'if query from airflow, route to etl group', priority = '2147483646'}
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Known facts:
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='request', value=Mock for HttpServletRequest, hashCode: 1943548225}
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Fact{name='result', value={}}
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rules evaluation started
+06:39:32.742 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' triggered
+06:39:32.743 [main] DEBUG org.jeasy.rules.core.DefaultRulesEngine - Rule 'airflow' performed successfully
+06:39:32.754 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.758 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.765 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.766 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.785 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.792 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.793 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.796 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.797 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.797 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.811 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.812 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.813 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.814 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.815 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.816 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.818 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.821 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.821 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.824 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.824 [main] DEBUG org.ehcache.core.EhcacheManager - Creating Cache 'resource_groups' in EhcacheManager.
+06:39:32.824 [main] DEBUG org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider - Serializer for <java.lang.String> : org.ehcache.impl.serialization.StringSerializer@4d4c4b14
+06:39:32.825 [main] DEBUG org.ehcache.core.EhcacheManager - Could not create serializers for resource_groups
+org.ehcache.spi.serialization.UnsupportedTypeException: No serializer found for type 'java.lang.Object'
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.getSerializerClassFor(DefaultSerializationProvider.java:136)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createSerializer(DefaultSerializationProvider.java:98)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createValueSerializer(DefaultSerializationProvider.java:90)
+	at org.ehcache.core.EhcacheManager.getStore(EhcacheManager.java:464)
+	at org.ehcache.core.EhcacheManager.createNewEhcache(EhcacheManager.java:342)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:274)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:252)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:247)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCacheForGroupOrCreateIt(EHCache3Manager.java:108)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCache(EHCache3Manager.java:67)
+	at org.javalite.activejdbc.cache.QueryCache.getItem(QueryCache.java:108)
+	at org.javalite.activejdbc.LazyList.hydrate(LazyList.java:322)
+	at org.javalite.activejdbc.AbstractLazyList.iterator(AbstractLazyList.java:54)
+	at com.lyft.data.gateway.ha.persistence.dao.ResourceGroups.upcast(ResourceGroups.java:49)
+	at com.lyft.data.gateway.ha.router.HaResourceGroupsManager.readAllResourceGroups(HaResourceGroupsManager.java:52)
+	at com.lyft.data.gateway.ha.router.TestSpecificDbResourceGroupsManager.testReadSpecificDbResourceGroup(TestSpecificDbResourceGroupsManager.java:59)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+06:39:32.825 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.String> : org.ehcache.impl.copy.IdentityCopier@49925d21
+06:39:32.825 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.Object> : org.ehcache.impl.copy.IdentityCopier@11170228
+06:39:32.825 [main] DEBUG org.ehcache.impl.internal.store.heap.OnHeapStore - TTL expiration strategy detected
+06:39:32.833 [main] DEBUG class org.ehcache.core.Ehcache-resource_groups - Initialize successful.
+06:39:32.833 [main] DEBUG org.ehcache.core.statistics.DefaultStatisticsService - Cache added resource_groups
+06:39:32.835 [main] INFO org.ehcache.core.EhcacheManager - Cache 'resource_groups' created in EhcacheManager.
+06:39:32.836 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.836 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.851 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.852 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.852 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/abcd
+06:39:32.853 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.860 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.861 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.869 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.870 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.871 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.872 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.873 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.873 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.875 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.876 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.876 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.878 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.885 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.887 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.894 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.895 [main] DEBUG org.ehcache.core.EhcacheManager - Creating Cache 'exact_match_source_selectors' in EhcacheManager.
+06:39:32.895 [main] DEBUG org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider - Serializer for <java.lang.String> : org.ehcache.impl.serialization.StringSerializer@1868ed54
+06:39:32.895 [main] DEBUG org.ehcache.core.EhcacheManager - Could not create serializers for exact_match_source_selectors
+org.ehcache.spi.serialization.UnsupportedTypeException: No serializer found for type 'java.lang.Object'
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.getSerializerClassFor(DefaultSerializationProvider.java:136)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createSerializer(DefaultSerializationProvider.java:98)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createValueSerializer(DefaultSerializationProvider.java:90)
+	at org.ehcache.core.EhcacheManager.getStore(EhcacheManager.java:464)
+	at org.ehcache.core.EhcacheManager.createNewEhcache(EhcacheManager.java:342)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:274)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:252)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:247)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCacheForGroupOrCreateIt(EHCache3Manager.java:108)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCache(EHCache3Manager.java:67)
+	at org.javalite.activejdbc.cache.QueryCache.getItem(QueryCache.java:108)
+	at org.javalite.activejdbc.LazyList.hydrate(LazyList.java:322)
+	at org.javalite.activejdbc.AbstractLazyList.iterator(AbstractLazyList.java:54)
+	at com.lyft.data.gateway.ha.persistence.dao.ExactMatchSourceSelectors.upcast(ExactMatchSourceSelectors.java:34)
+	at com.lyft.data.gateway.ha.router.HaResourceGroupsManager.readExactMatchSourceSelector(HaResourceGroupsManager.java:369)
+	at com.lyft.data.gateway.ha.router.TestResourceGroupsManager.testReadExactMatchSourceSelectors(TestResourceGroupsManager.java:308)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+06:39:32.895 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.String> : org.ehcache.impl.copy.IdentityCopier@131777e8
+06:39:32.895 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.Object> : org.ehcache.impl.copy.IdentityCopier@45790cb
+06:39:32.896 [main] DEBUG org.ehcache.impl.internal.store.heap.OnHeapStore - TTL expiration strategy detected
+06:39:32.897 [main] DEBUG class org.ehcache.core.Ehcache-exact_match_source_selectors - Initialize successful.
+06:39:32.897 [main] DEBUG org.ehcache.core.statistics.DefaultStatisticsService - Cache added exact_match_source_selectors
+06:39:32.899 [main] INFO org.ehcache.core.EhcacheManager - Cache 'exact_match_source_selectors' created in EhcacheManager.
+06:39:32.900 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.900 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.902 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.903 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.903 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.906 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.906 [main] DEBUG org.ehcache.core.EhcacheManager - Creating Cache 'resource_groups_global_properties' in EhcacheManager.
+06:39:32.906 [main] DEBUG org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider - Serializer for <java.lang.String> : org.ehcache.impl.serialization.StringSerializer@484b5a21
+06:39:32.906 [main] DEBUG org.ehcache.core.EhcacheManager - Could not create serializers for resource_groups_global_properties
+org.ehcache.spi.serialization.UnsupportedTypeException: No serializer found for type 'java.lang.Object'
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.getSerializerClassFor(DefaultSerializationProvider.java:136)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createSerializer(DefaultSerializationProvider.java:98)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createValueSerializer(DefaultSerializationProvider.java:90)
+	at org.ehcache.core.EhcacheManager.getStore(EhcacheManager.java:464)
+	at org.ehcache.core.EhcacheManager.createNewEhcache(EhcacheManager.java:342)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:274)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:252)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:247)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCacheForGroupOrCreateIt(EHCache3Manager.java:108)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCache(EHCache3Manager.java:67)
+	at org.javalite.activejdbc.cache.QueryCache.getItem(QueryCache.java:108)
+	at org.javalite.activejdbc.LazyList.hydrate(LazyList.java:322)
+	at org.javalite.activejdbc.AbstractLazyList.iterator(AbstractLazyList.java:54)
+	at com.lyft.data.gateway.ha.persistence.dao.ResourceGroupsGlobalProperties.upcast(ResourceGroupsGlobalProperties.java:29)
+	at com.lyft.data.gateway.ha.router.HaResourceGroupsManager.readAllGlobalProperties(HaResourceGroupsManager.java:275)
+	at com.lyft.data.gateway.ha.router.TestResourceGroupsManager.testReadGlobalProperties(TestResourceGroupsManager.java:257)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+06:39:32.906 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.String> : org.ehcache.impl.copy.IdentityCopier@16e5344c
+06:39:32.906 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.Object> : org.ehcache.impl.copy.IdentityCopier@3ba5c4dd
+06:39:32.906 [main] DEBUG org.ehcache.impl.internal.store.heap.OnHeapStore - TTL expiration strategy detected
+06:39:32.908 [main] DEBUG class org.ehcache.core.Ehcache-resource_groups_global_properties - Initialize successful.
+06:39:32.908 [main] DEBUG org.ehcache.core.statistics.DefaultStatisticsService - Cache added resource_groups_global_properties
+06:39:32.909 [main] INFO org.ehcache.core.EhcacheManager - Cache 'resource_groups_global_properties' created in EhcacheManager.
+06:39:32.910 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.922 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.926 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.927 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.928 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.936 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.946 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.946 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.948 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.949 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.949 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.950 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.951 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.952 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.953 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.954 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.954 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.957 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.957 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.957 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.960 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.961 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.961 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.963 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.964 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.964 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.981 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.981 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.982 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.992 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.993 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.993 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.995 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:32.996 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:32.996 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:32.999 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.012 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.013 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.015 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.016 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.017 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.020 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.020 [main] DEBUG org.ehcache.core.EhcacheManager - Creating Cache 'selectors' in EhcacheManager.
+06:39:33.020 [main] DEBUG org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider - Serializer for <java.lang.String> : org.ehcache.impl.serialization.StringSerializer@4d75c604
+06:39:33.020 [main] DEBUG org.ehcache.core.EhcacheManager - Could not create serializers for selectors
+org.ehcache.spi.serialization.UnsupportedTypeException: No serializer found for type 'java.lang.Object'
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.getSerializerClassFor(DefaultSerializationProvider.java:136)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createSerializer(DefaultSerializationProvider.java:98)
+	at org.ehcache.impl.internal.spi.serialization.DefaultSerializationProvider.createValueSerializer(DefaultSerializationProvider.java:90)
+	at org.ehcache.core.EhcacheManager.getStore(EhcacheManager.java:464)
+	at org.ehcache.core.EhcacheManager.createNewEhcache(EhcacheManager.java:342)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:274)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:252)
+	at org.ehcache.core.EhcacheManager.createCache(EhcacheManager.java:247)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCacheForGroupOrCreateIt(EHCache3Manager.java:108)
+	at org.javalite.activejdbc.cache.EHCache3Manager.getCache(EHCache3Manager.java:67)
+	at org.javalite.activejdbc.cache.QueryCache.getItem(QueryCache.java:108)
+	at org.javalite.activejdbc.LazyList.hydrate(LazyList.java:322)
+	at org.javalite.activejdbc.AbstractLazyList.iterator(AbstractLazyList.java:54)
+	at com.lyft.data.gateway.ha.persistence.dao.Selectors.upcast(Selectors.java:37)
+	at com.lyft.data.gateway.ha.router.HaResourceGroupsManager.readAllSelectors(HaResourceGroupsManager.java:150)
+	at com.lyft.data.gateway.ha.router.TestResourceGroupsManager.testReadSelector(TestResourceGroupsManager.java:159)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+06:39:33.020 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.String> : org.ehcache.impl.copy.IdentityCopier@3265995e
+06:39:33.020 [main] DEBUG org.ehcache.impl.internal.spi.copy.DefaultCopyProvider - Copier for <java.lang.Object> : org.ehcache.impl.copy.IdentityCopier@33f2eb04
+06:39:33.020 [main] DEBUG org.ehcache.impl.internal.store.heap.OnHeapStore - TTL expiration strategy detected
+06:39:33.021 [main] DEBUG class org.ehcache.core.Ehcache-selectors - Initialize successful.
+06:39:33.021 [main] DEBUG org.ehcache.core.statistics.DefaultStatisticsService - Cache added selectors
+06:39:33.022 [main] INFO org.ehcache.core.EhcacheManager - Cache 'selectors' created in EhcacheManager.
+06:39:33.023 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.023 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.025 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.025 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.025 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.038 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.039 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.039 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.040 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.041 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.041 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.043 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.044 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.044 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.045 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.046 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.046 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.048 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.048 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.048 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.050 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.052 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.052 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.054 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.060 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.060 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.062 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.063 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.063 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959172744
+06:39:33.065 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.071 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.071 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.072 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.080 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.081 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.084 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.085 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.086 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.088 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.088 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.088 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.090 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.091 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.091 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.096 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.102 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.110 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.112 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.113 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.113 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.115 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.115 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.116 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.118 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.118 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.119 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.131 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.131 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.132 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.135 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.138 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.138 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.139 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.140 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.140 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.142 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.143 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.143 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.145 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.146 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.146 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.149 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.155 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.155 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.161 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.163 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.163 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.165 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.166 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.167 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.168 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.169 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.170 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.188 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.189 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.189 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.192 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.192 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.192 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.194 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.195 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.195 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.197 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.197 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.198 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.199 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.200 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.200 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.203 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.204 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.204 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.217 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.219 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.219 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.222 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.223 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.223 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.225 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.225 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.225 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.227 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.228 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.228 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.242 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.243 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.243 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.246 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.247 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.248 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.250 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.251 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.251 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.253 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.259 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.259 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Jdbc url is jdbc:h2:/tmp/h2db-1673959173071
+06:39:33.267 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection opened
+06:39:33.267 [main] DEBUG com.lyft.data.gateway.ha.persistence.JdbcConnectionManager - Connection closed
+06:39:33.268 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting Server@43599640{STOPPED}[9.4.48.v20220622]
+06:39:33.268 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - Server@43599640{STARTING}[9.4.48.v20220622] added {ErrorHandler@1800c1e3{STOPPED},AUTO}
+06:39:33.269 [main] INFO org.eclipse.jetty.server.Server - jetty-9.4.48.v20220622; built: 2022-06-21T20:42:25.880Z; git: 6b67c5719d1f4371b33655ff2d047d24e171e49a; jvm 11.0.17+8-post-Ubuntu-1ubuntu220.04
+06:39:33.276 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting Server@43599640{STARTING}[9.4.48.v20220622]
+06:39:33.276 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting QueuedThreadPool[qtp1955021259]@748741cb{STOPPED,8<=0<=10,i=0,r=-1,q=0}[NO_TRY]
+06:39:33.282 [main] DEBUG org.eclipse.jetty.util.thread.ReservedThreadExecutor - ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}
+06:39:33.282 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=0<=10,i=0,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}] added {ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0},AUTO}
+06:39:33.282 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}
+06:39:33.283 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15803ms ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}
+06:39:33.284 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2429,5,main]
+06:39:33.284 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2430,5,main]
+06:39:33.284 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2431,5,main]
+06:39:33.284 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2432,5,main]
+06:39:33.284 [qtp1955021259-2429] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=2<=10,i=2,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.284 [qtp1955021259-2430] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=3<=10,i=3,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.286 [qtp1955021259-2431] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=4<=10,i=4,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.286 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2433,5,main]
+06:39:33.287 [qtp1955021259-2432] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=5<=10,i=5,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.293 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2434,5,main]
+06:39:33.293 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2435,5,main]
+06:39:33.293 [qtp1955021259-2433] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=7<=10,i=7,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.293 [qtp1955021259-2434] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=7<=10,i=7,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.311 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1955021259-2436,5,main]
+06:39:33.311 [qtp1955021259-2435] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTING,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.311 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15831ms QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.311 [qtp1955021259-2436] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.311 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting HandlerCollection@545b995e{STOPPED}
+06:39:33.311 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting HandlerCollection@545b995e{STARTING}
+06:39:33.311 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting o.e.j.s.ServletContextHandler@7393222f{/__admin,null,STOPPED}
+06:39:33.312 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting o.e.j.s.ServletContextHandler@7393222f{/__admin,null,STARTING}
+06:39:33.312 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting SymlinkAllowedResourceAliasChecker@babafc2{base=null,protected=null}
+06:39:33.312 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15833ms SymlinkAllowedResourceAliasChecker@babafc2{base=null,protected=null}
+06:39:33.312 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ServletHandler@7d446ed1{STOPPED}
+06:39:33.313 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/recorder/*[EMBEDDED:null] mapped to servlet=org.eclipse.jetty.servlet.DefaultServlet-b4711e2[EMBEDDED:null]
+06:39:33.314 [main] DEBUG org.eclipse.jetty.http.pathmap.ServletPathSpec - Creating ServletPathSpec[/recorder/*] (group: PREFIX_GLOB, prefix: "/recorder", suffix: "null")
+06:39:33.314 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@4ccddc4a{/recorder/*},resource=org.eclipse.jetty.servlet.DefaultServlet-b4711e2==org.eclipse.jetty.servlet.DefaultServlet@ff1b9773{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=1]
+06:39:33.314 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/[EMBEDDED:null] mapped to servlet=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-62010f5c[EMBEDDED:null]
+06:39:33.315 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@9457dcb7{/},resource=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-62010f5c==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@f193748f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=2]
+06:39:33.315 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/swagger-ui/*[EMBEDDED:null] mapped to servlet=org.eclipse.jetty.servlet.DefaultServlet-59a008ba[EMBEDDED:null]
+06:39:33.315 [main] DEBUG org.eclipse.jetty.http.pathmap.ServletPathSpec - Creating ServletPathSpec[/swagger-ui/*] (group: PREFIX_GLOB, prefix: "/swagger-ui", suffix: "null")
+06:39:33.315 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@fe042bf3{/swagger-ui/*},resource=org.eclipse.jetty.servlet.DefaultServlet-59a008ba==org.eclipse.jetty.servlet.DefaultServlet@f1ddf779{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=3]
+06:39:33.315 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - filterNameMap={org.eclipse.jetty.servlets.CrossOriginFilter-5c2375a9=org.eclipse.jetty.servlets.CrossOriginFilter-5c2375a9==org.eclipse.jetty.servlets.CrossOriginFilter@5c2375a9{inst=false,async=true,src=EMBEDDED:null}}
+06:39:33.315 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - pathFilters=[[/*]/[]/[REQUEST]=>org.eclipse.jetty.servlets.CrossOriginFilter-5c2375a9]
+06:39:33.315 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletFilterMap={}
+06:39:33.315 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletPathMap=PathMappings[size=3]
+06:39:33.315 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletNameMap={org.eclipse.jetty.servlet.DefaultServlet-59a008ba=org.eclipse.jetty.servlet.DefaultServlet-59a008ba==org.eclipse.jetty.servlet.DefaultServlet@f1ddf779{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}, org.eclipse.jetty.servlet.DefaultServlet-b4711e2=org.eclipse.jetty.servlet.DefaultServlet-b4711e2==org.eclipse.jetty.servlet.DefaultServlet@ff1b9773{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}, com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-62010f5c=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-62010f5c==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@f193748f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}}
+06:39:33.315 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting ServletHandler@7d446ed1{STARTING}
+06:39:33.316 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15836ms ServletHandler@7d446ed1{STARTED}
+06:39:33.317 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting org.eclipse.jetty.servlets.CrossOriginFilter-5c2375a9==org.eclipse.jetty.servlets.CrossOriginFilter@5c2375a9{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.317 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15837ms org.eclipse.jetty.servlets.CrossOriginFilter-5c2375a9==org.eclipse.jetty.servlets.CrossOriginFilter@5c2375a9{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.319 [main] DEBUG org.eclipse.jetty.servlet.FilterHolder - Filter.init org.eclipse.jetty.servlets.CrossOriginFilter@13c18bba
+06:39:33.320 [main] DEBUG org.eclipse.jetty.servlets.CrossOriginFilter - Cross-origin filter configuration: allowedOrigins = *, allowedMethods = OPTIONS,GET,POST,PUT,PATCH,DELETE, allowedHeaders = X-Requested-With,Content-Type,Accept,Origin,Authorization, preflightMaxAge = 1800, allowCredentials = true,exposedHeaders = ,chainPreflight = false
+06:39:33.320 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-62010f5c==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@f193748f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15847ms com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-62010f5c==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@f193748f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting org.eclipse.jetty.servlet.DefaultServlet-59a008ba==org.eclipse.jetty.servlet.DefaultServlet@f1ddf779{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15847ms org.eclipse.jetty.servlet.DefaultServlet-59a008ba==org.eclipse.jetty.servlet.DefaultServlet@f1ddf779{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting org.eclipse.jetty.servlet.DefaultServlet-b4711e2==org.eclipse.jetty.servlet.DefaultServlet@ff1b9773{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15847ms org.eclipse.jetty.servlet.DefaultServlet-b4711e2==org.eclipse.jetty.servlet.DefaultServlet@ff1b9773{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.327 [main] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7393222f{/__admin,null,AVAILABLE}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15847ms o.e.j.s.ServletContextHandler@7393222f{/__admin,null,AVAILABLE}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting GzipHandler@5812f68b{STOPPED}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting GzipHandler@5812f68b{STARTING}
+06:39:33.327 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting o.e.j.s.ServletContextHandler@7a362b6b{/,null,STOPPED}
+06:39:33.328 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting o.e.j.s.ServletContextHandler@7a362b6b{/,null,STARTING}
+06:39:33.330 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting SymlinkAllowedResourceAliasChecker@60df60da{base=null,protected=null}
+06:39:33.330 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15851ms SymlinkAllowedResourceAliasChecker@60df60da{base=null,protected=null}
+06:39:33.337 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ServletHandler@14fc1f0{STOPPED}
+06:39:33.337 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/__files/*[EMBEDDED:null] mapped to servlet=org.eclipse.jetty.servlet.DefaultServlet-4ae9cfc1[EMBEDDED:null]
+06:39:33.337 [main] DEBUG org.eclipse.jetty.http.pathmap.ServletPathSpec - Creating ServletPathSpec[/__files/*] (group: PREFIX_GLOB, prefix: "/__files", suffix: "null")
+06:39:33.338 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@6b2fe10e{/__files/*},resource=org.eclipse.jetty.servlet.DefaultServlet-4ae9cfc1==org.eclipse.jetty.servlet.DefaultServlet@d5601e51{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=1]
+06:39:33.339 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/[EMBEDDED:null] mapped to servlet=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-60856961[EMBEDDED:null]
+06:39:33.339 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@9457dcb7{/},resource=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-60856961==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@95a83243{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=2]
+06:39:33.340 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - filterNameMap={com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-7ae42ce3=com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-7ae42ce3==com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter@7ae42ce3{inst=false,async=true,src=EMBEDDED:null}, com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-764faa6=com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-764faa6==com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter@764faa6{inst=false,async=true,src=EMBEDDED:null}}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - pathFilters=[[/__files/*]/[]/[ASYNC, ERROR, FORWARD, INCLUDE, REQUEST]=>com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-7ae42ce3, [/__files/*]/[]/[FORWARD]=>com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-764faa6]
+06:39:33.340 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletFilterMap={}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletPathMap=PathMappings[size=2]
+06:39:33.340 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletNameMap={org.eclipse.jetty.servlet.DefaultServlet-4ae9cfc1=org.eclipse.jetty.servlet.DefaultServlet-4ae9cfc1==org.eclipse.jetty.servlet.DefaultServlet@d5601e51{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}, com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-60856961=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-60856961==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@95a83243{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting ServletHandler@14fc1f0{STARTING}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15860ms ServletHandler@14fc1f0{STARTED}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting NotFoundHandler@58326051{STOPPED}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting NotFoundHandler@58326051{STARTING}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15861ms NotFoundHandler@58326051{STARTED}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-764faa6==com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter@764faa6{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15861ms com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-764faa6==com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter@764faa6{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.340 [main] DEBUG org.eclipse.jetty.servlet.FilterHolder - Filter.init com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter@416d90f0
+06:39:33.340 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-7ae42ce3==com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter@7ae42ce3{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15861ms com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-7ae42ce3==com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter@7ae42ce3{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.servlet.FilterHolder - Filter.init com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter@de0c402
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-60856961==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@95a83243{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15861ms com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-60856961==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@95a83243{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting org.eclipse.jetty.servlet.DefaultServlet-4ae9cfc1==org.eclipse.jetty.servlet.DefaultServlet@d5601e51{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15862ms org.eclipse.jetty.servlet.DefaultServlet-4ae9cfc1==org.eclipse.jetty.servlet.DefaultServlet@d5601e51{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.341 [main] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7a362b6b{/,null,AVAILABLE}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15862ms o.e.j.s.ServletContextHandler@7a362b6b{/,null,AVAILABLE}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15862ms GzipHandler@5812f68b{STARTED}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15862ms HandlerCollection@545b995e{STARTED}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ErrorHandler@1800c1e3{STOPPED}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting ErrorHandler@1800c1e3{STARTING}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15862ms ErrorHandler@1800c1e3{STARTED}
+06:39:33.341 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180}
+06:39:33.349 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180} added {sun.nio.ch.ServerSocketChannelImpl[/0.0.0.0:21180],POJO}
+06:39:33.350 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ScheduledExecutorScheduler@53251a66{STOPPED}
+06:39:33.355 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15875ms ScheduledExecutorScheduler@53251a66{STARTED}
+06:39:33.362 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting HttpConnectionFactory@563e4951[HTTP/1.1]
+06:39:33.362 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15883ms HttpConnectionFactory@563e4951[HTTP/1.1]
+06:39:33.362 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting SelectorManager@NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180}
+06:39:33.373 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - EatWhatYouKill@a1b7549/SelectorProducer@66716959/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.372118-06:00 added {SelectorProducer@66716959,POJO}
+06:39:33.373 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - EatWhatYouKill@a1b7549/SelectorProducer@66716959/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.373542-06:00 added {QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}],UNMANAGED}
+06:39:33.373 [main] DEBUG org.eclipse.jetty.util.thread.strategy.EatWhatYouKill - EatWhatYouKill@a1b7549/SelectorProducer@66716959/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.373741-06:00 created
+06:39:33.374 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - ManagedSelector@65b5b5ed{STOPPED} id=0 keys=-1 selected=-1 updates=0 added {EatWhatYouKill@a1b7549/SelectorProducer@66716959/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.373952-06:00,MANAGED}
+06:39:33.374 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - SelectorManager@NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180} added {ManagedSelector@65b5b5ed{STOPPED} id=0 keys=-1 selected=-1 updates=0,AUTO}
+06:39:33.374 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - EatWhatYouKill@6595ffce/SelectorProducer@795eddda/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.374287-06:00 added {SelectorProducer@795eddda,POJO}
+06:39:33.374 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - EatWhatYouKill@6595ffce/SelectorProducer@795eddda/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.374458-06:00 added {QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}],UNMANAGED}
+06:39:33.374 [main] DEBUG org.eclipse.jetty.util.thread.strategy.EatWhatYouKill - EatWhatYouKill@6595ffce/SelectorProducer@795eddda/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.374631-06:00 created
+06:39:33.374 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - ManagedSelector@c6bf8d9{STOPPED} id=1 keys=-1 selected=-1 updates=0 added {EatWhatYouKill@6595ffce/SelectorProducer@795eddda/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.374862-06:00,MANAGED}
+06:39:33.375 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - SelectorManager@NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180} added {ManagedSelector@c6bf8d9{STOPPED} id=1 keys=-1 selected=-1 updates=0,AUTO}
+06:39:33.375 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ManagedSelector@65b5b5ed{STOPPED} id=0 keys=-1 selected=-1 updates=0
+06:39:33.375 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting EatWhatYouKill@a1b7549/SelectorProducer@66716959/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.375189-06:00
+06:39:33.375 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15895ms EatWhatYouKill@a1b7549/SelectorProducer@66716959/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.375354-06:00
+06:39:33.376 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - queue org.eclipse.jetty.io.ManagedSelector$$Lambda$402/0x0000000840442040@1ab28416 startThread=0
+06:39:33.377 [qtp1955021259-2429] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - run org.eclipse.jetty.io.ManagedSelector$$Lambda$402/0x0000000840442040@1ab28416 in QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=7,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.377 [main] DEBUG org.eclipse.jetty.io.ManagedSelector - Queued change lazy=false org.eclipse.jetty.io.ManagedSelector$Start@1174676f on ManagedSelector@65b5b5ed{STARTING} id=0 keys=0 selected=0 updates=0
+06:39:33.377 [qtp1955021259-2429] DEBUG org.eclipse.jetty.util.thread.strategy.EatWhatYouKill - EatWhatYouKill@a1b7549/SelectorProducer@66716959/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=7,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.377209-06:00 tryProduce false
+06:39:33.388 [qtp1955021259-2429] DEBUG org.eclipse.jetty.io.ManagedSelector - updateable 1
+06:39:33.388 [qtp1955021259-2429] DEBUG org.eclipse.jetty.io.ManagedSelector - update org.eclipse.jetty.io.ManagedSelector$Start@1174676f
+06:39:33.388 [qtp1955021259-2429] DEBUG org.eclipse.jetty.io.ManagedSelector - updates 0
+06:39:33.388 [qtp1955021259-2429] DEBUG org.eclipse.jetty.io.ManagedSelector - Selector sun.nio.ch.EPollSelectorImpl@3d549f6b waiting with 0 keys
+06:39:33.388 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15908ms ManagedSelector@65b5b5ed{STARTED} id=0 keys=0 selected=0 updates=0
+06:39:33.390 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ManagedSelector@c6bf8d9{STOPPED} id=1 keys=-1 selected=-1 updates=0
+06:39:33.391 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting EatWhatYouKill@6595ffce/SelectorProducer@795eddda/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=7,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.390957-06:00
+06:39:33.391 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15911ms EatWhatYouKill@6595ffce/SelectorProducer@795eddda/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=7,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.391288-06:00
+06:39:33.391 [qtp1955021259-2430] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - run org.eclipse.jetty.io.ManagedSelector$$Lambda$402/0x0000000840442040@752a16bb in QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=6,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.391 [qtp1955021259-2430] DEBUG org.eclipse.jetty.util.thread.strategy.EatWhatYouKill - EatWhatYouKill@6595ffce/SelectorProducer@795eddda/IDLE/p=false/QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=6,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}][pc=0,pic=0,pec=0,epc=0]@2023-01-17T06:39:33.39171-06:00 tryProduce false
+06:39:33.391 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - updateable 0
+06:39:33.391 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - updates 0
+06:39:33.391 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - Selector sun.nio.ch.EPollSelectorImpl@7bede66e waiting with 0 keys
+06:39:33.391 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - queue org.eclipse.jetty.io.ManagedSelector$$Lambda$402/0x0000000840442040@752a16bb startThread=0
+06:39:33.392 [main] DEBUG org.eclipse.jetty.io.ManagedSelector - Queued change lazy=false org.eclipse.jetty.io.ManagedSelector$Start@71f8ce0e on ManagedSelector@c6bf8d9{STARTING} id=1 keys=0 selected=0 updates=0
+06:39:33.392 [main] DEBUG org.eclipse.jetty.io.ManagedSelector - Wakeup on submit ManagedSelector@c6bf8d9{STARTING} id=1 keys=0 selected=0 updates=1
+06:39:33.392 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - Selector sun.nio.ch.EPollSelectorImpl@7bede66e woken with none selected
+06:39:33.392 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - Selector sun.nio.ch.EPollSelectorImpl@7bede66e woken up from select, 0/0/0 selected
+06:39:33.392 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - Selector sun.nio.ch.EPollSelectorImpl@7bede66e processing 0 keys, 1 updates
+06:39:33.392 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - updateable 1
+06:39:33.392 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - update org.eclipse.jetty.io.ManagedSelector$Start@71f8ce0e
+06:39:33.392 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - updates 0
+06:39:33.392 [qtp1955021259-2430] DEBUG org.eclipse.jetty.io.ManagedSelector - Selector sun.nio.ch.EPollSelectorImpl@7bede66e waiting with 0 keys
+06:39:33.392 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15912ms ManagedSelector@c6bf8d9{STARTED} id=1 keys=0 selected=0 updates=0
+06:39:33.392 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15912ms SelectorManager@NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180}
+06:39:33.393 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180} added {acceptor-0@1fcc3461,POJO}
+06:39:33.393 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - queue acceptor-0@1fcc3461 startThread=0
+06:39:33.393 [qtp1955021259-2431] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - run acceptor-0@1fcc3461 in QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=5,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.393 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180} added {acceptor-1@1987807b,POJO}
+06:39:33.393 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - queue acceptor-1@1987807b startThread=0
+06:39:33.393 [main] INFO org.eclipse.jetty.server.AbstractConnector - Started NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180}
+06:39:33.393 [qtp1955021259-2432] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - run acceptor-1@1987807b in QueuedThreadPool[qtp1955021259]@748741cb{STARTED,8<=8<=10,i=4,r=-1,q=0}[ReservedThreadExecutor@3a116ca6{reserved=0/1,pending=0}]
+06:39:33.393 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15914ms NetworkTrafficServerConnector@1b45c0e{HTTP/1.1, (http/1.1)}{0.0.0.0:21180}
+06:39:33.394 [main] INFO org.eclipse.jetty.server.Server - Started @15914ms
+06:39:33.394 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15914ms Server@43599640{STARTED}[9.4.48.v20220622]
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting Server@561868a0{STOPPED}[9.4.48.v20220622]
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - Server@561868a0{STARTING}[9.4.48.v20220622] added {ErrorHandler@e645600{STOPPED},AUTO}
+06:39:33.425 [main] INFO org.eclipse.jetty.server.Server - jetty-9.4.48.v20220622; built: 2022-06-21T20:42:25.880Z; git: 6b67c5719d1f4371b33655ff2d047d24e171e49a; jvm 11.0.17+8-post-Ubuntu-1ubuntu220.04
+06:39:33.425 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting Server@561868a0{STARTING}[9.4.48.v20220622]
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting QueuedThreadPool[qtp1633013890]@6155d082{STOPPED,8<=0<=10,i=0,r=-1,q=0}[NO_TRY]
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.thread.ReservedThreadExecutor - ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.component.ContainerLifeCycle - QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=0<=10,i=0,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}] added {ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0},AUTO}
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15946ms ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}
+06:39:33.425 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2437,5,main]
+06:39:33.434 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2438,5,main]
+06:39:33.434 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2439,5,main]
+06:39:33.434 [qtp1633013890-2438] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=3<=10,i=3,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.434 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2440,5,main]
+06:39:33.434 [qtp1633013890-2439] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=4<=10,i=4,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.435 [qtp1633013890-2437] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=2<=10,i=2,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.435 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2441,5,main]
+06:39:33.435 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2442,5,main]
+06:39:33.435 [qtp1633013890-2440] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=6<=10,i=6,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.435 [qtp1633013890-2441] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=6<=10,i=6,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.435 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2443,5,main]
+06:39:33.435 [qtp1633013890-2442] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=7<=10,i=7,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Starting Thread[qtp1633013890-2444,5,main]
+06:39:33.436 [qtp1633013890-2443] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTING,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15956ms QueuedThreadPool[qtp1633013890]@6155d082{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting HandlerCollection@2f1de2d6{STOPPED}
+06:39:33.436 [qtp1633013890-2444] DEBUG org.eclipse.jetty.util.thread.QueuedThreadPool - Runner started for QueuedThreadPool[qtp1633013890]@6155d082{STARTED,8<=8<=10,i=8,r=-1,q=0}[ReservedThreadExecutor@e7b3e54{reserved=0/1,pending=0}]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting HandlerCollection@2f1de2d6{STARTING}
+06:39:33.436 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting o.e.j.s.ServletContextHandler@7803bfd{/__admin,null,STOPPED}
+06:39:33.436 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting o.e.j.s.ServletContextHandler@7803bfd{/__admin,null,STARTING}
+06:39:33.436 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting SymlinkAllowedResourceAliasChecker@42bc14c1{base=null,protected=null}
+06:39:33.436 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15957ms SymlinkAllowedResourceAliasChecker@42bc14c1{base=null,protected=null}
+06:39:33.436 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ServletHandler@62ef27a8{STOPPED}
+06:39:33.436 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/recorder/*[EMBEDDED:null] mapped to servlet=org.eclipse.jetty.servlet.DefaultServlet-460ebd80[EMBEDDED:null]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.http.pathmap.ServletPathSpec - Creating ServletPathSpec[/recorder/*] (group: PREFIX_GLOB, prefix: "/recorder", suffix: "null")
+06:39:33.436 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@4ccddc4a{/recorder/*},resource=org.eclipse.jetty.servlet.DefaultServlet-460ebd80==org.eclipse.jetty.servlet.DefaultServlet@9aaeda90{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=1]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/[EMBEDDED:null] mapped to servlet=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-6f3c660a[EMBEDDED:null]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@9457dcb7{/},resource=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-6f3c660a==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@b838a43f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=2]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/swagger-ui/*[EMBEDDED:null] mapped to servlet=org.eclipse.jetty.servlet.DefaultServlet-6436a7db[EMBEDDED:null]
+06:39:33.436 [main] DEBUG org.eclipse.jetty.http.pathmap.ServletPathSpec - Creating ServletPathSpec[/swagger-ui/*] (group: PREFIX_GLOB, prefix: "/swagger-ui", suffix: "null")
+06:39:33.437 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@fe042bf3{/swagger-ui/*},resource=org.eclipse.jetty.servlet.DefaultServlet-6436a7db==org.eclipse.jetty.servlet.DefaultServlet@32bdf34{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=3]
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - filterNameMap={org.eclipse.jetty.servlets.CrossOriginFilter-74f5ce22=org.eclipse.jetty.servlets.CrossOriginFilter-74f5ce22==org.eclipse.jetty.servlets.CrossOriginFilter@74f5ce22{inst=false,async=true,src=EMBEDDED:null}}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - pathFilters=[[/*]/[]/[REQUEST]=>org.eclipse.jetty.servlets.CrossOriginFilter-74f5ce22]
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletFilterMap={}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletPathMap=PathMappings[size=3]
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletNameMap={com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-6f3c660a=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-6f3c660a==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@b838a43f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}, org.eclipse.jetty.servlet.DefaultServlet-460ebd80=org.eclipse.jetty.servlet.DefaultServlet-460ebd80==org.eclipse.jetty.servlet.DefaultServlet@9aaeda90{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}, org.eclipse.jetty.servlet.DefaultServlet-6436a7db=org.eclipse.jetty.servlet.DefaultServlet-6436a7db==org.eclipse.jetty.servlet.DefaultServlet@32bdf34{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting ServletHandler@62ef27a8{STARTING}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15957ms ServletHandler@62ef27a8{STARTED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting org.eclipse.jetty.servlets.CrossOriginFilter-74f5ce22==org.eclipse.jetty.servlets.CrossOriginFilter@74f5ce22{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15957ms org.eclipse.jetty.servlets.CrossOriginFilter-74f5ce22==org.eclipse.jetty.servlets.CrossOriginFilter@74f5ce22{inst=false,async=true,src=EMBEDDED:null}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.FilterHolder - Filter.init org.eclipse.jetty.servlets.CrossOriginFilter@6b103db7
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlets.CrossOriginFilter - Cross-origin filter configuration: allowedOrigins = *, allowedMethods = OPTIONS,GET,POST,PUT,PATCH,DELETE, allowedHeaders = X-Requested-With,Content-Type,Accept,Origin,Authorization, preflightMaxAge = 1800, allowCredentials = true,exposedHeaders = ,chainPreflight = false
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-6f3c660a==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@b838a43f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15957ms com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-6f3c660a==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@b838a43f{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting org.eclipse.jetty.servlet.DefaultServlet-460ebd80==org.eclipse.jetty.servlet.DefaultServlet@9aaeda90{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15957ms org.eclipse.jetty.servlet.DefaultServlet-460ebd80==org.eclipse.jetty.servlet.DefaultServlet@9aaeda90{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting org.eclipse.jetty.servlet.DefaultServlet-6436a7db==org.eclipse.jetty.servlet.DefaultServlet@32bdf34{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15957ms org.eclipse.jetty.servlet.DefaultServlet-6436a7db==org.eclipse.jetty.servlet.DefaultServlet@32bdf34{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+06:39:33.437 [main] INFO org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7803bfd{/__admin,null,AVAILABLE}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15957ms o.e.j.s.ServletContextHandler@7803bfd{/__admin,null,AVAILABLE}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting GzipHandler@4eb386df{STOPPED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting GzipHandler@4eb386df{STARTING}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting o.e.j.s.ServletContextHandler@25aca718{/,null,STOPPED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting o.e.j.s.ServletContextHandler@25aca718{/,null,STARTING}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting SymlinkAllowedResourceAliasChecker@16fdec90{base=null,protected=null}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15958ms SymlinkAllowedResourceAliasChecker@16fdec90{base=null,protected=null}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting ServletHandler@40238dd0{STOPPED}
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/__files/*[EMBEDDED:null] mapped to servlet=org.eclipse.jetty.servlet.DefaultServlet-7776ab[EMBEDDED:null]
+06:39:33.437 [main] DEBUG org.eclipse.jetty.http.pathmap.ServletPathSpec - Creating ServletPathSpec[/__files/*] (group: PREFIX_GLOB, prefix: "/__files", suffix: "null")
+06:39:33.437 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@6b2fe10e{/__files/*},resource=org.eclipse.jetty.servlet.DefaultServlet-7776ab==org.eclipse.jetty.servlet.DefaultServlet@642df8ff{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=1]
+06:39:33.437 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - Path=/[EMBEDDED:null] mapped to servlet=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-79179359[EMBEDDED:null]
+06:39:33.437 [main] DEBUG org.eclipse.jetty.http.pathmap.PathMappings - Added MappedResource[pathSpec=ServletPathSpec@9457dcb7{/},resource=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-79179359==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@cdccfd94{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}] to PathMappings[size=2]
+06:39:33.438 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - filterNameMap={com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-6a55299e=com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-6a55299e==com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter@6a55299e{inst=false,async=true,src=EMBEDDED:null}, com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-51acdf2e=com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-51acdf2e==com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter@51acdf2e{inst=false,async=true,src=EMBEDDED:null}}
+06:39:33.438 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - pathFilters=[[/__files/*]/[]/[ASYNC, ERROR, FORWARD, INCLUDE, REQUEST]=>com.github.tomakehurst.wiremock.servlet.TrailingSlashFilter-6a55299e, [/__files/*]/[]/[FORWARD]=>com.github.tomakehurst.wiremock.servlet.ContentTypeSettingFilter-51acdf2e]
+06:39:33.438 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletFilterMap={}
+06:39:33.438 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletPathMap=PathMappings[size=2]
+06:39:33.438 [main] DEBUG org.eclipse.jetty.servlet.ServletHandler - servletNameMap={org.eclipse.jetty.servlet.DefaultServlet-7776ab=org.eclipse.jetty.servlet.DefaultServlet-7776ab==org.eclipse.jetty.servlet.DefaultServlet@642df8ff{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}, com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-79179359=com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet-79179359==com.github.tomakehurst.wiremock.servlet.WireMockHandlerDispatchingServlet@cdccfd94{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}}
+06:39:33.438 [main] DEBUG org.eclipse.jetty.server.handler.AbstractHandler - starting ServletHandler@40238dd0{STARTING}
+06:39:33.438 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - STARTED @15958ms ServletHandler@40238dd0{STARTED}
+06:39:33.438 [main] DEBUG org.eclipse.jetty.util.component.AbstractLifeCycle - starting NotFoundHandler@dbd8e44{STOPPED}
